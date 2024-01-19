@@ -1,1 +1,1 @@
-旧的开关页面
+old switch view
